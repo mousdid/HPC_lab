@@ -1,1 +1,1 @@
-# gpu_lab
+# cpu_gpu_lab
